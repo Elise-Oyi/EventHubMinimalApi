@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cCZYotjuF0KnnYxWB9ICrsPKJuNdXEWIQvwW28fUag0=",
+  "Source": "EventHub.MinimalApi",
+  "BasePath": "_content/EventHub.MinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
